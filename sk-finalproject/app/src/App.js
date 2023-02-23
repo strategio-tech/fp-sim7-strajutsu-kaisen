@@ -1,13 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
-import Review from './components/Review';
+import "./App.css";
+import React from "react";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import LandingScreen from "./views/LandingScreen";
+import LoginScreen from "./views/LoginScreen";
 
 function App() {
-  return (
-    <div className="App">
-        <Review />
-    </div>
-  );
+    return (
+        <Router>
+            {/* <nav>
+      <Link to="/">LandingScreen</Link>
+      <Link to="/login">LoginScreen</Link>
+      </nav> */}
+            <Routes>
+                <Route path="/" element={<LandingScreen />} />
+                <Route path="/login" element={<LoginScreen />} />
+            </Routes>
+        </Router>
+    );
 }
 
 export default App;
