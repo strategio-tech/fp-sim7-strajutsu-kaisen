@@ -34,7 +34,7 @@ So why wait? Download CineMate today and join a community of movie lovers who sh
 
 **Release:** GitHub
 
-**Deploy & Monitor:** GitHub Actions, Render
+**Deploy & Monitor:** GitHub Actions, Netlify, AWS Elastic Beanstalk
 
 
 ## Features
