@@ -1,0 +1,12 @@
+.projcard {
+    cursor: default;
+}
+
+span > a.text-dark {
+    text-decoration: none;
+}
+
+span > a.text-dark:hover {
+    text-decoration:underline;
+    cursor: pointer;
+}
