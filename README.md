@@ -54,6 +54,7 @@ https://cinemate-now.netlify.app/
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/kprFG8h.png)
+![App Screenshot](https://i.imgur.com/1MN0Xeg.png)
 
 
 ## Installing/Getting Started
