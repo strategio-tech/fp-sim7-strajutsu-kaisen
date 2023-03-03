@@ -117,7 +117,7 @@ To start the server:
 
 
 # Architectural Diagram
-![App Screenshot](https://i.imgur.com/SxH5xL1.png)
+![App Screenshot](https://i.imgur.com/fAbzuOU.jpg)
 
 
 
