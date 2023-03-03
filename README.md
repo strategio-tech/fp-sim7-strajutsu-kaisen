@@ -97,7 +97,7 @@ Add the following scripts:
 
 ```bash
   spring.data.mongodb.database=<YOUR_DATABASE_NAME>
-  spring.data.mongodb.uri=mongodb+srv://<USERNAME>:<PASSWORD>@$<CLUSTER_NAME>.mongodb.net
+  spring.data.mongodb.uri=<YOUR_MONGODB_CONNECTION_STRING>
 ```
 #### Maven
 
